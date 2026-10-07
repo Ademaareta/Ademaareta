@@ -1,12 +1,25 @@
-# setup identitas (sekali saja)
-git config --global user.name "Adema Areta"
-git config --global user.email "aretamdza@gmail.com"
+# Hi, I'm Adema Medsuzabe Areta 👋
 
-# mulai repo pertama
-mkdir oee-calculator && cd oee-calculator
-git init -b main
-# buat README.md, .gitignore, LICENSE dulu
-git add .
-git commit -m "chore: initial commit with README and license"
-git remote add origin https://github.com/USERNAME/oee-calculator.git
-git push -u origin main
+Informatics Engineering student at **Politeknik Manufaktur Bandung**
+(Industrial Informatics Engineering Technology, Manufacturing
+Automation & Mechatronics).
+
+I build software for manufacturing: industrial IoT, production
+monitoring, and factory data analytics.
+
+## 🎯 Focus
+- Industrial IoT (MQTT, Modbus, OPC UA)
+- Production monitoring dashboards (OEE)
+- Data analysis and machine learning for manufacturing
+
+## 🛠️ Tech
+**Used in my projects:** Kotlin · JavaScript · TypeScript · HTML
+**Currently learning:** Python · MQTT · Docker · Grafana · SQL
+
+## 🚀 Projects in progress
+- `oee-calculator`: OEE calculation library with unit tests (coming soon)
+- `factory-oee-dashboard`: real-time production monitoring (planned)
+
+## 📫 Contact
+- LinkedIn: [isi link-mu]
+- Email: [isi emailmu]
