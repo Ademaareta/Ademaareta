@@ -21,5 +21,5 @@ monitoring, and factory data analytics.
 - `factory-oee-dashboard`: real-time production monitoring (planned)
 
 ## 📫 Contact
-- LinkedIn: [isi link-mu]
-- Email: [isi emailmu]
+- LinkedIn: [https://www.linkedin.com/in/ademaarr]
+- Email: [aretamdza@gmail.com]
